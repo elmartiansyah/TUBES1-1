@@ -4,7 +4,7 @@
   <tr>
     <td width="171" height="332" valign="top" bordercolor="#000000" background="images/bg1.JPG">
 	<?php include("nav.php"); ?>
-    <td width="581" valign="top" border="2" background="images/bg3.JPG" bgcolor="#FF0066">
+    <td width="581" valign="top" border="2" background="images/bg3.JPG" bgcolor="#FF0000">
 	<br/>
 	<p align="center" style="font-weight: bold">Halaman Profil</p>
 	<br/>
@@ -12,17 +12,17 @@
       <tr>
         <td width="51">Nama</td>
         <td width="3">:</td>
-        <td width="222">Heru Purwito </td>
+        <td width="222">Saha we </td>
       </tr>
       <tr>
         <td>TTL</td>
         <td>:</td>
-        <td>OKU Timur, 06 Maret 1991 </td>
+        <td>Tasikmalaya, 17 agustus 1945 </td>
       </tr>
       <tr>
         <td>Alamat</td>
         <td>:</td>
-        <td>Jl. Kaliurang KM 14. Sleman Yogyakarta </td>
+        <td>Perum Batara Blok L, Tasikmalaya </td>
       </tr>
       <tr>
         <td>Website</td>
@@ -32,7 +32,7 @@
       <tr>
         <td>Hobby</td>
         <td>:</td>
-        <td>Makan :) </td>
+        <td>Hahaaaaaaahhhhh :) </td>
       </tr>
     </table></td>
   </tr>
